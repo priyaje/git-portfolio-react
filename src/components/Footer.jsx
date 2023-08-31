@@ -50,7 +50,7 @@ const Footer = () => {
         </Icon>
       </IconContainer>
 
-      <p> All copyrights are reserved &copy; 2023 </p>
+      <p> All copyrights are reserved &copy; 2023. </p>
     </FooterContainer>
   );
 };
