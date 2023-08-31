@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/git-portfolio-react/static/css/main.18c6cb31.css",
+    "main.js": "/git-portfolio-react/static/js/main.16256c7f.js",
+    "static/media/proj3.png": "/git-portfolio-react/static/media/proj3.3f27fcd7d43a137efad0.png",
+    "static/media/proj2.png": "/git-portfolio-react/static/media/proj2.9fc6ee7ffc7f102c6cfd.png",
+    "static/media/proj4.png": "/git-portfolio-react/static/media/proj4.9f39af3465447351d663.png",
+    "static/media/proj1.png": "/git-portfolio-react/static/media/proj1.cd13e085506479cae43a.png",
+    "static/media/front.png": "/git-portfolio-react/static/media/front.3cad0216a7baf77a5b58.png",
+    "static/media/back.png": "/git-portfolio-react/static/media/back.5029239fc5a244d6f012.png",
+    "static/media/logo3.png": "/git-portfolio-react/static/media/logo3.b4cefafd81ff756331bf.png",
+    "index.html": "/git-portfolio-react/index.html",
+    "main.18c6cb31.css.map": "/git-portfolio-react/static/css/main.18c6cb31.css.map",
+    "main.16256c7f.js.map": "/git-portfolio-react/static/js/main.16256c7f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18c6cb31.css",
+    "static/js/main.16256c7f.js"
+  ]
+}
