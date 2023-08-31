@@ -16,7 +16,7 @@ const Container = styled.div`
   flex-direction: column;
 `;
 
-const Image = styled.img`height:60px;width:100%;`;
+const Image = styled.img`height:100vh;width:100%;`;
 const App = () => {
   return (
     <Container>
