@@ -75,8 +75,7 @@ export const projectItems = [
   {
     image: project3,
     title: "Toy Shop Design",
-    toolsUsed:
-      "React.js, React hooks, styled components, CSS,Material UI Icons",
+    toolsUsed: "React.js, React hooks, styled components, CSS ,Material UI Icons",
   },
   {
     image: project4,
@@ -90,7 +89,7 @@ const Projects = () => {
 
   return (
     <ImageContainer>
-      {projectItems.map((items, idx,id) => {
+      {projectItems.map((items, idx, id) => {
         return (
           <ImageWrapper>
             {(id = idx)}
